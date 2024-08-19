@@ -54,9 +54,13 @@
 ## source
 - https://twitter.com/biantaishark/status/1738837053029404888
 - https://x.com/Elliot58616851/status/1624783641019826178?s=20
+- @sgkmffz
 
 ## sop
 - https://www.v2ex.com/t/654792#r_8718468
 
 ## SMS Attack
-- 
+- (https://t.me/jdHappybot)[https://t.me/jdHappybot?start=1934816937]
+- (https://t.me/old8smsbompbot)[https://t.me/old8smsbompbot]
+- (https://t.me/c_tools_bot)[https://t.me/c_tools_bot?start=1934816937]
+

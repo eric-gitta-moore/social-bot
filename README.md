@@ -16,11 +16,12 @@
 - [https://t.me/Ztgh_bot](https://t.me/Ztgh_bot?start=1934816937)
 - [https://t.me/Carllnet_bot](https://t.me/Carllnet_bot?start=1934816937)
 - [https://t.me/JinpaiSGK_bot](https://t.me/JinpaiSGK_bot?start=1934816937)
-- https://t.me/SGKmainNEWbot
+- [https://t.me/SGKmainNEWbot](https://t.me/SGKmainNEWbot?start=IVT7352F6A9)
+- [https://t.me/DJZT_bot](https://t.me/DJZT_bot?start=nwgJqQWELV)
 
-## group
-- https://t.me/mianfeisgk66888
-- https://t.me/heikeciadgk
+
+<!-- - https://t.me/mianfeisgk66888
+- https://t.me/heikeciadgk -->
 
 ## source
 - https://twitter.com/biantaishark/status/1738837053029404888
@@ -28,3 +29,6 @@
 
 ## sop
 - https://www.v2ex.com/t/654792#r_8718468
+
+## SMS Attack
+- 

@@ -1,11 +1,11 @@
 # social-bot
 社工库
 
-## handbook
+## Handbook
 - [一分钟学会社工库机器人](https://telegra.ph/AISGK-05-17)
 
 
-## bot
+## Bot
 - [https://t.me/aishegongkubot](https://t.me/aishegongkubot?start=AISGK_48H0FP0I)
 - [https://t.me/sgkvipbot](https://t.me/sgkvipbot?start=vip_1111047)
 - [https://t.me/InfSGK_bot](https://t.me/InfSGK_bot?start=MTkzNDgxNjkzNw==)
@@ -51,12 +51,12 @@
 <!-- - https://t.me/mianfeisgk66888
 - https://t.me/heikeciadgk -->
 
-## source
+## Source
 - https://twitter.com/biantaishark/status/1738837053029404888
 - https://x.com/Elliot58616851/status/1624783641019826178?s=20
 - @sgkmffz
 
-## sop
+## SOP (Standard Operating Procedure)
 - https://www.v2ex.com/t/654792#r_8718468
 
 ## SMS Attack

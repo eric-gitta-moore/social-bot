@@ -62,5 +62,5 @@
 ## SMS Attack
 - [https://t.me/jdHappybot](https://t.me/jdHappybot?start=1934816937)
 - [https://t.me/old8smsbompbot](https://t.me/old8smsbompbot)
-- [https://t.me/c_tools_bot[(https://t.me/c_tools_bot?start=1934816937)
+- [https://t.me/c_tools_bot](https://t.me/c_tools_bot?start=1934816937)
 

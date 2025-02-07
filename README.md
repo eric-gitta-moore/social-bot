@@ -6,6 +6,7 @@
 
 
 ## Bot
+- [https://t.me/AEON_SGKBOT](https://t.me/AEON_SGKBOT?start=1934816937)
 - [https://t.me/aishegongkubot](https://t.me/aishegongkubot?start=AISGK_48H0FP0I)
 - [https://t.me/sgkvipbot](https://t.me/sgkvipbot?start=vip_1111047)
 - [https://t.me/InfSGK_bot](https://t.me/InfSGK_bot?start=MTkzNDgxNjkzNw==)
